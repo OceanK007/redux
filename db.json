@@ -1,0 +1,23 @@
+{
+  "cards": [
+    {
+      "id": 1,
+      "title": "1",
+      "isActive": true
+    },
+    {
+      "id": 2,
+      "title": "2",
+      "isActive": true
+    },
+    {
+      "id": 3,
+      "title": "3",
+      "isActive": true
+    },
+    {
+      "id": 4,
+      "isActive": false
+    }
+  ]
+}
