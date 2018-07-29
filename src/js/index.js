@@ -1,4 +1,4 @@
-import './my_redux';
+import './init';
 //const redux = require('./my_redux');
 
 import '../scss/style.scss';
