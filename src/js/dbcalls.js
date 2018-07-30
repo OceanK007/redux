@@ -54,7 +54,7 @@ export function updateCard(data)
         //dataType: 'json',
         async: true,   // To make it asynchronous
         //data: myData,
-        success: function(data) 
+        success: function(data)
         {
             console.log("Card updated to db");
             //renderCards(getCards());
